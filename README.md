@@ -6,8 +6,8 @@
 
 # Q & A
 
-1. Why you don't use 'stikynot.exe' command in os.system() to execute StickyNotes?
+1. Why you don't use 'stikynot.exe' command in os.system() to execute StickyNotes?  
    I have tried this way, but it didn't work. It appears that Windows 10 doesn't support this command any more.
 
-2. Why the final step has to be done by user?
+2. Why the final step has to be done by user?  
    Well, moving an app to the Startup directory needs Superuser, but I haven't found a way to do that automatically.
