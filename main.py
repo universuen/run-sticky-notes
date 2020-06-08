@@ -2,8 +2,8 @@ import sqlite3
 import os
 
 
-USERNAME = 'SOBER'
-lnk_path = 'D:\\Users\\SOBER\\Desktop\\便笺.lnk'
+USERNAME = ''
+lnk_path = ''
 
 
 if __name__ == '__main__':
